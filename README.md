@@ -1,5 +1,7 @@
 # Hola, soy Erik 👋
-### Estudiante 1DAW → Futuro Full Stack Developer 🚀
+### Estudiante 1DAW → Futuro Full Stack Developer 
+![Dark Coding 🌙💻](https://github.com/user-attachments/assets/ece3f900-2282-40c1-86a3-a5f1eb3c4e6b)
+
 
 ---
 
@@ -98,6 +100,6 @@ namespace ErikDev
 
 **"Tratando de avanzar día a día."** 🔥
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO.TU_USUARIO)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MrErikmu)
 
 </div>
