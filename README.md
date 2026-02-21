@@ -1,6 +1,5 @@
-# Hola, soy Erik 👋
+![Dark Coding 🌙💻](https://github.com/user-attachments/assets/ece3f900-2282-40c1-86a3-a5f1eb3c4e6b) 
 ### Estudiante 1DAW → Futuro Full Stack Developer 
-![Dark Coding 🌙💻](https://github.com/user-attachments/assets/ece3f900-2282-40c1-86a3-a5f1eb3c4e6b)
 
 
 ---
@@ -16,7 +15,8 @@ namespace ErikDev
     {
         public string Name => "Erik Moreno Uceda";
         public string Location => "Madrid, Spain 🇪🇸";
-        public string Grade => "1DAW";
+        public string Degree => "Web Aplication Development";
+        public string Status => "In Progress, 1st year"
         public string Goal => "Full Stack Developer";
         public list<Hobbies> => new list<Hobbies> { Videogames, Movies, FantasyBooks, RockMusic, TabletopRoleplayinGames };
         public bool LookingForinternships => true;
@@ -43,7 +43,7 @@ namespace ErikDev
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Up next::**
+**Up next:**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -59,16 +59,26 @@ namespace ErikDev
 ![JetBrains Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=jetbrains-rider&logoColor=white)
 
 ---
-
-## 📊 Estadísticas de GitHub
+## 📂  **What im working on atm**
 
 <div align="center">
 
-![Erik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrErikmu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+| Proyect | Description | Demo |
+| :---: | :---: | :---: |
+| *Biblioteca* | Console app to manage a library inventory | [Link]([https://...](https://github.com/MrErikmu/ejercicios/tree/main/ConsoleApp1/Biblioteca) |
+| *DawspatchHeroes* | Console app to manage heroes, send them to missions and watch them grow in power | [Link](https://github.com/MrErikmu/ejercicios/tree/main/DawPatchHeroes)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrErikmu&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+</div>
+
+## 📊  GitHub Stats
+
+<div align="center">
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrErikmu&theme=tokyonight&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrErikmu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -79,7 +89,7 @@ namespace ErikDev
 - [x]  Learn the fundamentals of coding
 - [x]  Learn abouth Design Patterns
 - [ ]  Create my first web project
-- [ ]  Learn abouth databases
+- [ ]  Learn more abouth databases
 - [ ]  Discover new and exciting technologies
 
 ---
@@ -98,7 +108,7 @@ namespace ErikDev
 
 <div align="center">
 
-**"Tratando de avanzar día a día."** 🔥
+> ***Be not afraid of growing slowly; be afraid only of standing still.***
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MrErikmu)
 
