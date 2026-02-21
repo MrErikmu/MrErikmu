@@ -65,7 +65,7 @@ namespace ErikDev
 
 | Proyect | Description | Demo |
 | :---: | :---: | :---: |
-| *Biblioteca* | Console app to manage a library inventory | [Link]([https://...](https://github.com/MrErikmu/ejercicios/tree/main/ConsoleApp1/Biblioteca) |
+| *Biblioteca* | Console app to manage a library inventory | [Link](https://github.com/MrErikmu/ejercicios/tree/main/ConsoleApp1/Biblioteca) |
 | *DawspatchHeroes* | Console app to manage heroes, send them to missions and watch them grow in power | [Link](https://github.com/MrErikmu/ejercicios/tree/main/DawPatchHeroes)
 
 ---
@@ -98,7 +98,7 @@ namespace ErikDev
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-moreno-0a77573b2/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrErikmu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrerikmoreno@gmail.com)
 
